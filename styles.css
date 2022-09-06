@@ -1,0 +1,98 @@
+body,h1,h2,h3,h4,p {
+  margin: 0;
+  font-family: 'Aboreto', cursive;
+}
+footer{
+  background-color: #383c42;
+  text-align: center;
+
+}
+label{
+  font-weight: bold;
+}
+.navbar {
+  opacity: 0.75;
+}
+
+.logo {
+ font-family: 'Aboreto', cursive;
+}
+.logo-image{
+  margin-right: 10px;
+}
+.second-container {
+  text-align: center;
+  margin: 5% 0 5% 0;
+  padding: 0 10% 0 10%;
+}
+.banner{
+  padding: 0;
+}
+.certi {
+  height: 200px;
+  width: 20%;
+  margin: 0 5%;
+}
+
+#testimonials {
+  background-color: #383c42;
+}
+
+.container-fluid {
+  padding: 7% 15%;
+}
+
+.testimonial-text {
+  text-align: center;
+  font-family: 'Handlee', cursive;
+  color: #fff;
+  padding: 0 10% 0 10%;
+}
+.name{
+  font-size: 1rem;
+  text-align: center;
+  margin-top: 5%;
+  color: #fff;
+}
+#programs{
+  padding: 10% 10%;
+}
+.program{
+  font-family: 'Aboreto', cursive;
+  padding: 1.5% 4% 1.5% 4%;
+}
+.card-title{
+  font-weight: bold;
+}
+.bottom-container{
+  padding: 5% 2% ;
+}
+.vid{
+  margin: 0;
+}
+.third-container{
+  /* background-color: #383c42; */
+
+}
+.details{
+  padding: 5%;
+}
+.form-element{
+  margin: 2% 0;
+}
+.submit-button{
+  padding-bottom: 0;
+}
+.bottom-container{
+  padding: 5% 2% 1% 2%;
+}
+.footer-icon{
+  margin: 10px;
+  padding-bottom: 2%;
+  color: #fff;
+}
+.footer-text{
+  margin: 1% 0 0 0 ;
+  font-size: .6rem;
+  color:#fff;
+}
